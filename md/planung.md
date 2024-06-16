@@ -2,10 +2,8 @@
 
 ## Einlesen
 
-Beschreibung: Einlesen in das Thema und exzerpieren
-Zeitraum: Über die Sommerferien
+Beschreibung: Einlesen in das Thema und exzerpieren <br> Zeitraum: Über die Sommerferien
 
 ## Rohtext verfassen
 
-Beschreibung: Den Rohtext schreiben und dabei die Literatur integrieren
-Zeitraum: Bis Anfang der Weihnachtsferien
+Beschreibung: Den Rohtext schreiben und dabei die Literatur integrieren <br> Zeitraum: Bis Anfang der Weihnachtsferien
